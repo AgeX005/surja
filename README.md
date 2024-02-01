@@ -1,1 +1,1 @@
-Hosted files for "SURJAPP"
+Hosted files for "SurjApp"
